@@ -11,3 +11,6 @@ So here is a script to solve your problem
 # how to work with the program :
 the program can convert celsius to fahrenheit and fahrenheit to celsius 
 first type the temprature in celsius and enter then type in the temprature in fahrenheit 
+
+#Example:
+![Demo](example.png)
