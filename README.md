@@ -5,7 +5,7 @@ So here is a script to solve your problem
 
 # how to prepare for installation:
 1_download latest python from python.org website 
-2_then open an cmd and typein pip install coloroma
+2_then open an cmd and typein pip install colorama
 3_in the cmd that you opened , typein python main.py 
 
 # how to work with the program :
